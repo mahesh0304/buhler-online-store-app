@@ -8,7 +8,7 @@ Minimal sample app that implements:
 - Back button functionality.
 
 To run:
-1. Clone this repository in local
+1. Clone or dowanload zip this repository in local
 2. Node version required >=20
 3. npm install
 4. npm run dev
